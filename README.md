@@ -1,16 +1,18 @@
+
 ### Olá 👋, Me chamo Gustavo WIllemann
 📆 No inicio de 2021 iniciei meus estudos de programação
 
 📖 Atualmente estou focado em desenvolvimento Front-End, com o uso do React/NextJS
 
-⌨🖱 Sou jogador de PC
-
+⌨🖱 Jogador de PC
+<br>
+<br>
 ### Hello 👋, I'm Gustavo WIllemann
 📆 I started to learn code in the beginning of 2021
 
-📖 Currently I'm focusing on Front-End development, with React/NextJS
+📖 Currently focusing on Front-End development, with React/NextJS
 
-⌨🖱 I'm a PC gamer
+⌨🖱 PC gamer
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guswillemann&bg_color=000000&title_color=43FF43&text_color=7DFF7D&icon_color=43FF43)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guswillemann&layout=compact&bg_color=000000&title_color=43FF43&text_color=7DFF7D&icon_color=43FF43)](https://github.com/anuraghazra/github-readme-stats)
 
