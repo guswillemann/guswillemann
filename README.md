@@ -2,13 +2,13 @@
 ### Olá 👋, Me chamo Gustavo WIllemann
 📆 No inicio de 2021 iniciei meus estudos de programação
 
-📖 Atualmente estou focado em desenvolvimento Front-End, com o uso do React/NextJS
+📖 Atualmente estou focado em desenvolvimento Front-End, com React/NextJS
 
 ⌨🖱 PC gamer
 <br>
 <br>
 ### Hello 👋, I'm Gustavo WIllemann
-📆 I started to learn code in the beginning of 2021
+📆 I started to learn programming in the beginning of 2021
 
 📖 Currently focusing on Front-End development, with React/NextJS
 
