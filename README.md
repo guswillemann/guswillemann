@@ -4,7 +4,7 @@
 
 📖 Atualmente estou focado em desenvolvimento Front-End, com o uso do React/NextJS
 
-⌨🖱 Jogador de PC
+⌨🖱 PC gamer
 <br>
 <br>
 ### Hello 👋, I'm Gustavo WIllemann
