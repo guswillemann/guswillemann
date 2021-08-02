@@ -14,7 +14,12 @@
 
 ⌨🖱 PC gamer
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guswillemann&bg_color=000000&title_color=43FF43&text_color=7DFF7D&icon_color=43FF43)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guswillemann&layout=compact&bg_color=000000&title_color=43FF43&text_color=7DFF7D&icon_color=43FF43)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=guswillemann&bg_color=000000&title_color=43FF43&text_color=7DFF7D&icon_color=43FF43" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guswillemann&layout=compact&bg_color=000000&title_color=43FF43&text_color=7DFF7D&icon_color=43FF43" />
+  </a>
+</div>
 
 
 <!--
